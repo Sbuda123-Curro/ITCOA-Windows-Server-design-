@@ -60,5 +60,3 @@ Built in Oracle VirtualBox on a Windows Server 2019 VM named `NXS-DC-01`, domain
 └── screenshots/
 ```
 
-## Notes
-This repository is a personal portfolio record of my own coursework. Please don't reuse it for your own submissions.
